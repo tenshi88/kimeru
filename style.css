@@ -44,3 +44,10 @@ button:active{
     box-shadow: 0px 1px rgb(42, 41, 41);
     transform:translateY(4px)
 }
+#resultImage{
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+    border-radius: 50%;
+    box-shadow: 0px 5px rgb(42, 41, 41);
+}
