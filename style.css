@@ -46,7 +46,7 @@ button:active{
 }
 #resultImage{
     width: 300px;
-    height: 300px;
+    height: 230px;
     margin: 10px auto;
     border-radius: 50%;
     box-shadow: 0px 5px rgb(42, 41, 41);
